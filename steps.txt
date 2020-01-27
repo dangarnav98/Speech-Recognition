@@ -1,4 +1,4 @@
-1) Install liabraries pandas, numpy, scikit-learn, speech_recognition and pyAudio. The most imporatnt part is to have a microsoft visual      studio 14.0 for installing the pyAudio.
+1) Install liabraries pandas, numpy, scikit-learn, speech_recognition and pyAudio. The most imporatnt part is to have a microsoft visual studio 14.0 for installing the pyAudio.
 2)You can install speech_recognition by opening the command prompt and the write pip install speech_recognition.
 3) Copy the code written in text file and paste on jupyter cell
     OR
