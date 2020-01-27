@@ -1,6 +1,7 @@
-1) install liabraries pandas, numpy, scikit-learn, speech_recognition and matplotlib
-2) copy the code written in text file and paste on jupyter cell
+1) Install liabraries pandas, numpy, scikit-learn, speech_recognition and pyAudio. The most imporatnt part is to have a microsoft visual      studio 14.0 for installing the pyAudio.
+2)You can install speech_recognition by opening the command prompt and the write pip install speech_recognition.
+3) Copy the code written in text file and paste on jupyter cell
     OR
    right click on program file and select edit with IDLE and then run the python script
-3) Tkinter window will appear and input the values given in input file
-4) Run and u will get the output
+4) Tkinter window will appear and input the values given in input file
+5) Run and u will get the output
